@@ -1,2 +1,3 @@
-# coding-challenges
-Coding Challenges : BackEnd | FrontEnd 
+# Coding Challenges
+- Backend Developer : PHP Laravel && VueJs
+- Frontend Developer 
