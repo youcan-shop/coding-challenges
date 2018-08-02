@@ -11,7 +11,7 @@ The task is to implement an app that lists news, and a single page with swiping 
 -   CSS Preprocessors: Use Stylus or SASS
 -   Make use of CSS animations
 -   Use [Vue CLI](https://cli.vuejs.org/)
--   _Bomus_ Use [NUXT](https://nuxtjs.org/)
+-   **Bonus** Use [NUXT](https://nuxtjs.org/)
 
 ## Features
 
