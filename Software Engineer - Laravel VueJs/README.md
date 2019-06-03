@@ -52,7 +52,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 If you have any questions, ask directly in our slack, room #tech-challenge  
 
-## Useful links & resources
+## Links & resources
 
 ### Mandatory to know
 
