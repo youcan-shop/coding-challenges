@@ -1,4 +1,4 @@
-# Software Engineer - PHP coding challenge
+# Software Engineer - Laravel/VueJs coding challenge
 
 ## How to participate
 
@@ -26,27 +26,27 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 ## Brief
 
 ### Homepage
-- List all items with infinite scroll pagination
+- List all items with infinite scroll pagination using a VueJs Component.
 
 ### Features with UI
-- As a user, I can register by providing simply an email and a password
-- As a user, I can add items. An item is a title, image and description
+- As a user, I can register by providing simply an email and a password.
+- As a user, I can add items. An item is a title, image and description.
 
 ### Features commandline
-- I should be able to add a new user from the command line
-- I should be able to change a user password from the command line
-- I should be able to seed fake data (10000 items / 100 users) from the command line
+- I should be able to add a new user from the command line.
+- I should be able to change a user password from the command line.
+- I should be able to seed fake data (10000 items / 100 users) from the command line.
 
 ## Evaluation criteria 🚨
-- Respect of software engineering principles : DRY, KISS, SOLID
+- Respect of software engineering principles : DRY, KISS, YAGNI, SOLID
 - Code readability and coding style (PSR)
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit
 - Quality of documentation (The readme should be short and concise, like open source projects readme)
 
-## Advices and recommendations
+## Instructions
 - Put more focus on code quality and less on speed. 
 - Don't hack something quickly, take your time and craft something clean. 
-- Write a readable and maintainable code 
+- Write a readable and maintainable code.
 
 ## Questions?
 
