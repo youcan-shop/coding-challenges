@@ -1,4 +1,4 @@
-# Software Engineer - Laravel/vueJs coding challenge
+# Software Engineer - PHP coding challenge
 
 ## How to participate
 
@@ -26,7 +26,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 ## Brief
 
 ### Homepage
-- List all items with infinite scroll pagination 
+- List all items with infinite scroll pagination
 
 ### Features with UI
 - As a user, I can register by providing simply an email and a password
