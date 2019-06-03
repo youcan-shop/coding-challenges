@@ -4,7 +4,8 @@
 
 1. Read the instructions carefully and do not hesitate to check the **useful links and resources** section before you start.
 2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link with us by sending an email to **tech-challenge@nextmedia.ma**, it'll be considered as the time your started working on the challenge.
+3. When you're ready to start the test, make sure you init a Github repository and share the link with us by replying to our hiring instructions email with cc **tech-challenge@nextmedia.ma**, it'll be considered as the time your started working on the challenge.
+4. once you're done with the test, reply 
 
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
@@ -38,10 +39,11 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - I should be able to seed fake data (10000 items / 100 users) from the command line.
 
 ## Evaluation criteria 🚨
-- Respect of software engineering principles : DRY, KISS, YAGNI, SOLID
-- Code readability and coding style (PSR)
-- Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit
-- Quality of documentation (The readme should be short and concise, like open source projects readme)
+- Accuracy to follow instructions.
+- Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
+- Code readability and coding style (PSR).
+- Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
+- Quality of documentation (The readme should be short and concise, like open source projects readme).
 
 ## Instructions
 - Put more focus on code quality and less on speed. 
@@ -50,7 +52,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 ## Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge  
+If you have any questions, ask directly in our slack, room #tech-challenge.  
 
 ## Links & resources
 
