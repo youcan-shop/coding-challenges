@@ -56,7 +56,7 @@ If you have any questions, ask directly in our slack, room #tech-challenge
 
 ### Mandatory to know
 
-#### PSR coding style
+#### PSR & coding style
 - PSR-1: https://www.php-fig.org/psr/psr-1/
 - PSR-2: https://www.php-fig.org/psr/psr-2/
 - PSR: https://www.php-fig.org/psr/
@@ -71,11 +71,16 @@ If you have any questions, ask directly in our slack, room #tech-challenge
 
 - [PHP best practices](https://phpbestpractices.org/)
 - [PHP the right way](https://phptherightway.com/)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
-### VueJs
+### Laravel & VueJs
 
-- https://vuejs.org/v2/guide/
-- http://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07
+- [Laravel](https://laravel.com)
+- [VueJs](https://vuejs.org/v2/guide/)
+- [Laravel Vue Single file component](https://medium.com/plint-sites/javascript-in-laravel-vue-single-file-components-69be12033d98)
+- [Introduction to VueJs in Laravel](https://medium.com/justlaravel/introduction-to-vue-js-in-laravel-e8757174e58e)
+- [Awesome Laravel](https://github.com/TimothyDJones/awesome-laravel)
+- [Awesome Laravel 2](https://github.com/chiraggude/awesome-laravel)
 
 
 ### PHP / Laravel / Symfony
