@@ -12,15 +12,15 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 - You should build a small and concise app the right way.
 
-- The app is only users and items, with some features and interactions.
+- The app contain only users and items, with some features and interactions.
 
 - The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors).
 
-- Css & colors are not evaluated.
+- CSS & colors are not evaluated.
  
 ## Technologies to use
  
-- Laravel / vueJs
+- Laravel / VueJs
 - PHP7 / MySQL
         
 ## Brief
@@ -35,7 +35,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 ### Features commandline
 - I should be able to add a new user from the command line
 - I should be able to change a user password from the command line
-- I should be able to comfortably seed data (10000 items / 100 users) from the command line
+- I should be able to seed fake data (10000 items / 100 users) from the command line
 
 ## Evaluation criteria 🚨
 - Respect of software engineering principles : DRY, KISS, SOLID
