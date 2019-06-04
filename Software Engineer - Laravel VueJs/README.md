@@ -31,7 +31,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 ### Features with UI
 - As a user, I can register by providing simply an email and a password.
-- As a user, I can add items. An item is a title, image and description.
+- As a logged user, I can add items. An item is a title, image and description.
 
 ### Features commandline
 - I should be able to add a new user from the command line.
@@ -47,7 +47,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 ## Instructions
 - Put more focus on code quality and less on speed. 
-- Don't hack something quickly, take your time and craft something clean. 
+- Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
 
 ## Questions?
@@ -66,7 +66,7 @@ If you have any questions, ask directly in our slack, room #tech-challenge.
 #### Code design principles
 - DRY: [Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
 - [Single responsibility principle](https://deviq.com/single-responsibility-principle/)
-- [SOlID](https://deviq.com/solid/)   
+- [SOLID](https://deviq.com/solid/)   
 - [KISS, DRY, TDA, YAGNI](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
 
 ### Best practices
