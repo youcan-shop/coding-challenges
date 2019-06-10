@@ -49,11 +49,11 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
 
 
-
 ## Instructions
 - Put more focus on code quality and less on speed. 
 - Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
+- Subscribe to the repository so you're notified about any change performed in this test 
 
 ## Questions?
 
