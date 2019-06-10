@@ -38,12 +38,17 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - I should be able to change a user password from the command line.
 - I should be able to seed fake data (10000 items / 100 users) from the command line.
 
+### Testability
+- Write some unit tests
+
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
 - Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
 - Code readability and coding style (PSR).
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
+
+
 
 ## Instructions
 - Put more focus on code quality and less on speed. 
