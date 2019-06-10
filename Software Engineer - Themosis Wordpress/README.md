@@ -4,7 +4,7 @@
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
 2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Laravel/VueJs application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Themosis/Wordpress application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
 4. Once you're done with the test, reply again to your last email to notify us you're done with it. 
 
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
@@ -40,7 +40,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 2. Title
 3. Categories
 4. Image (miniature)
-5. Author 
+5. Author   
 6. Date
 
 ### Front
