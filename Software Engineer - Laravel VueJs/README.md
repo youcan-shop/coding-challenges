@@ -2,7 +2,7 @@
 
 ## How to participate
 
-1. Read the instructions carefully and do not hesitate to check the **useful links and resources** section before you start.
+1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
 2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
 3. When you're ready to start the test, make sure you init a Github repository and share the link with us by replying to our hiring instructions email with cc **tech-challenge@nextmedia.ma**, it'll be considered as the time your started working on the challenge.
 4. Once you're done with the test, reply again by email to notify us you're done with it. 
