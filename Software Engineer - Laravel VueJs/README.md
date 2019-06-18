@@ -31,6 +31,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 
 ### Features with UI
 - As a user, I can register by providing simply an email and a password.
+- As a logged user, I can update my password.
 - As a logged user, I can add items. An item is a title, image and description.
 
 ### Features commandline
