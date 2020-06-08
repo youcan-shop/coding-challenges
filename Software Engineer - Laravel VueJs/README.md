@@ -1,44 +1,46 @@
-# Software Engineer - Coding challenge
+# Software Engineer - Laravel/VueJs coding challenge
 
 ## How to participate
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
 2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Laravel/VueJs application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
 4. Once you're done with the test, reply again by email to notify us you're done with it. 
 
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
 ## Context
 
-### Product definition
-- name (string) 
-- description (string)
-- price (float)
-- image (file)
-- belongs to n categories
-
-### Category definition
-- name (string)
-- parent category (null|category)
-
-### Features
-- Ability to create a product (from cli)
-- A listing products with ability to sort by price, or/and filter by a category (from web) 
-
-### Testing
-- product creation should be covered by automated tests
-
-#### Notes
 - You should build a small and concise app the right way.
-- Wrap Eloquent queries in repository layer, so never use eloquent outside the repository     
+
+- The app contains only users and items, with some features and interactions.
+
+- The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors).
+
 - CSS & colors are not evaluated.
-- Do not hesitate to automate the build phase (front / backend)
  
 ## Technologies to use
  
 - Laravel / VueJs
-- PHP7 / MySQL       
+- PHP7 / MySQL
+        
+## Brief
+
+### Homepage
+- List all items with infinite scroll pagination using a VueJs Component.
+
+### Features with UI
+- As a user, I can register by providing simply an email and a password.
+- As a logged user, I can update my password.
+- As a logged user, I can add items. An item is a title, image and description.
+
+### Features commandline
+- I should be able to add a new user from the command line.
+- I should be able to change a user password from the command line.
+- I should be able to seed fake data (10000 items / 100 users) from the command line.
+
+### Testability
+- Write some unit tests
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
@@ -52,9 +54,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - Put more focus on code quality and less on speed. 
 - Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
-- Subscribe to the repository, so you're notified about any change performed in this test
-
-The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors). 
+- Subscribe to the repository so you're notified about any change performed in this test 
 
 ## Questions?
 
