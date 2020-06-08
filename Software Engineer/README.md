@@ -1,71 +1,60 @@
-# Software Engineer - Frontend VueJs coding challenge
+# Software Engineer - Coding challenge
 
 ## How to participate
 
-1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start or during the challenge.
-2. When you're ready to start the test, Init a Github repository named *{your_name}-taas-frontend-challenge* and let us know by sharing the link by email to 
-**tech-challenge@nextmedia.ma** with the object **you_name - Coding Challenge Frontend VueJs**. *(it'll be considered as the time your started working on the challenge)*
-3. Once you're done with the test, reply all the same thread mail to notify us you're done with the challenge.
+1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
+2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
+3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+4. Once you're done with the test, reply again by email to notify us you're done with it. 
 
-You can join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), 
-then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available 
-to help daily. 
+Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
 ## Context
 
-- You should focus to build a small and concise app the right way using best bractices.
+### Product definition
+- name (string) 
+- description (string)
+- price (float)
+- image (file)
+- belongs to n categories
 
-- The Frontend App is based on the [Github REST API v3](https://developer.github.com/v3/) as a backend.
+### Category definition
+- name (string)
+- parent category (null|category)
 
-- The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors).
+### Features
+- Ability to create a product (from cli)
+- A listing products with ability to sort by price, or/and filter by a category (from web) 
 
-- CSS & colors and templating are not evaluated, use any template, we put interest more on UX and user interactions. 
+### Testing
+- product creation should be covered by automated tests
+
+#### Notes
+- You should build a small and concise app the right way.
+- Wrap Eloquent queries in repository layer, so never use eloquent outside the repository     
+- CSS & colors are not evaluated.
+- Do not hesitate to automate the build phase (front / backend)
  
 ## Technologies to use
  
-- VueJs / Javascript
-- Typescript
-        
-## Brief
-
-As a user I authorize my Github Account then I am able to list my repositories with some features:
-- Filter by name (autocomplete).
-
-As a user I access to two dashboards for a selected repository.
-- Commits history Dashboard: a listing of last x commits in a branch (master is default) with ability to select and show commits.
-- Pull Requests history: a listing of last Pull Requests with ability to select and show pull requests.
-
-## Features
-
-### Commit history feature
-
-When the user is on commit history page, commits history is displayed in the left side, he can filter by branch name.
-when the user selects a particular commit, it append in the right side of the page the preview code changes related to this commit. 
-
-### Last Pull Requests feature
-
-When the user is on last pull requests page, Pull Requests are listed by date desc in the left side.
-When the user selects a Pull requests, it appends commits related to this pull request in the right side.
-When the user selects a particular commit, it appends a third side in the right with previewing code changes related. 
-to the selected commit.
-
-## Mockup 
-
-A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view
+- Laravel / VueJs
+- PHP7 / MySQL       
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
 - Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
-- Code readability and and app design.
+- Code readability and coding style (PSR).
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
-- Quality of documentation (The readme should be short and concise, get inspired from open source projects readme).
+- Quality of documentation (The readme should be short and concise, like open source projects readme).
 
 
 ## Instructions
 - Put more focus on code quality and less on speed. 
-- Don't hack something quickly, take your time and craft something clean, with layers, separation of concerns and with following
-good frontend practices.
+- Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
+- Subscribe to the repository, so you're notified about any change performed in this test
+
+The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors). 
 
 ## Questions?
 
@@ -73,14 +62,40 @@ If you have any questions, ask directly in our slack, room #tech-challenge.
 
 ## Links & resources
 
-### Coding style and best practices
-- https://handbook.imarc.com/frontend
-- https://frontendmasters.com/books/front-end-handbook/2019/
+### Mandatory to know
 
-### VueJs best practices
-- https://vuejs.org/v2/style-guide/
-- https://012.vuejs.org/guide/best-practices.html
-- https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255
-- https://gist.github.com/letanure/8b4e8ee8f7b065860df942f0e53d6fc9
+#### PSR & coding style
+- PSR-1: https://www.php-fig.org/psr/psr-1/
+- PSR-2: https://www.php-fig.org/psr/psr-2/
+- PSR: https://www.php-fig.org/psr/
+
+#### Code design principles
+- DRY: [Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
+- [Single responsibility principle](https://deviq.com/single-responsibility-principle/)
+- [SOLID](https://deviq.com/solid/)   
+- [KISS, DRY, TDA, YAGNI](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
+
+### Best practices
+
+- [PHP best practices](https://phpbestpractices.org/)
+- [PHP the right way](https://phptherightway.com/)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+
+### Laravel & VueJs
+
+- [Laravel](https://laravel.com)
+- [VueJs](https://vuejs.org/v2/guide/)
+- [Laravel Vue Single file component](https://medium.com/plint-sites/javascript-in-laravel-vue-single-file-components-69be12033d98)
+- [Introduction to VueJs in Laravel](https://medium.com/justlaravel/introduction-to-vue-js-in-laravel-e8757174e58e)
+- [Awesome Laravel](https://github.com/TimothyDJones/awesome-laravel)
+- [Awesome Laravel 2](https://github.com/chiraggude/awesome-laravel)
+
+
+### PHP / Laravel / Symfony
+- https://laravel.com
+- https://github.com/ziadoz/awesome-php
+- https://github.com/TimothyDJones/awesome-laravel
+- https://github.com/chiraggude/awesome-laravel
+
 
 That’s it ! May the force be with you !! 🖖 
