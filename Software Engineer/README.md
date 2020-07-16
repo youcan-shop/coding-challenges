@@ -2,16 +2,19 @@
 
 ## How to participate
 
-1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
-2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
-4. Once you're done with the test, reply again by email to notify us you're done with it. 
+1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before starting. 
+2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+3. Once you're done with the test, reply again by email to notify us you're done with it.
+
+You can join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
 
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
 ## Context
 
 ### Product definition
+A product has a name, a description, a price, an image, and belongs to 0..n categories.
+
 - name (string) 
 - description (string)
 - price (float)
@@ -19,21 +22,38 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - belongs to n categories
 
 ### Category definition
+A category is simply a name and eventual parent category
+
 - name (string)
 - parent category (null|category)
 
 ### Features
-- Ability to create a product (from cli)
-- A listing products with ability to sort by price, or/and filter by a category (from web) 
+
+#### CLI
+We should be able to create and delete a category from the command line
+
+We should be able to create and delete a product from the command line
+
+#### Web
+
+We should be able to create a product
+
+We should be able to browse products through a product listing with ability to:
+
+* sort by name, by price
+* filter by a category 
 
 ### Testing
-- product creation should be covered by automated tests
+Product creation should be covered by automated tests
 
-#### Notes
-- You should build a small and concise app the right way.
-- Wrap Eloquent queries in repository layer, so never use eloquent outside the repository     
+#### Important notes
+
+- The coding style is much important
+- Wrap Eloquent queries in the repository layer, never use Eloquent from outside the repository layer
+- Use a service layer for manipulating category & product objects (create, delete, get)
 - CSS & colors are not evaluated.
 - Do not hesitate to automate the build phase (front / backend)
+- Build a small and concise app the right way.
  
 ## Technologies to use
  
@@ -47,18 +67,20 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
 
-
 ## Instructions
 - Put more focus on code quality and less on speed. 
 - Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
 - Subscribe to the repository, so you're notified about any change performed in this test
 
-The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors). 
+The goal of this test is to evaluate the way of thinking, the quality of code design,
+and the accuracy to read and follow instructions
+
+We accept juniors and seniors
 
 ## Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge.  
+If you have any questions, ask directly in our slack, room #tech-challenge or cut an email to tech-challenge@nextmedia.ma  
 
 ## Links & resources
 
