@@ -11,14 +11,19 @@ Make sure you spare an **average of 8 hours**, and a **maximum of 8 day** to wor
 
 ## Context
 
-Build using Ansible: 
-- An elasticsearch cluster with 3 nodes + 1 hosting kibana
+Build using Ansible a dev environment with:
+- An elasticsearch single node with 1 node that can also host kibana
 - A logstash instance 
 - A web instance for hosting an application that produces logs in a json format
 
-Use Vagrant or docker for providing instances for dev environement
+Use Vagrant or docker for providing instances for dev environment
 
-The environment should be multi environments compliant. 
+The environment should be multi environments compliant.
+ 
+After having setup the dev environment, init a test environment with a cluster of elasticsearch having 3 nodes:
+- node 1 (master & data) + kibana
+- node 2 (master & data)
+- node 3 (master & data)
 
 #### Notes
 - Organize your code, so it's easily maintainable.
