@@ -7,31 +7,32 @@
 3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge DevOps Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
 4. Once you're done with the test, reply again by email to notify us you're done with it. 
 
-Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
+Make sure you spare an **average of 8 hours**, and a **maximum of 8 day** to work on the challenge.
 
 ## Context
 
 Build using Ansible: 
-- An elasticsearch cluster with 3 nodes
-- A log forwarder instance (logstash)
-- A web instance for hosting Kibana
+- An elasticsearch cluster with 3 nodes + 1 hosting kibana
+- A logstash instance 
+- A web instance for hosting an application that produces logs in a json format
 
-Use Vagrant for the dev environment 
+Use Vagrant or docker for providing instances for dev environement
+
+The environment should be multi environments compliant. 
 
 #### Notes
 - Organize your code, so it's easily maintainable.
-- Your solution should be able to handle multi environments.
+- Your solution should be able to handle multi environment.
  
 ## Technologies to use
 - Ansible
-- Vagrant       
+- Vagrant or docker
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
 - Code readability and coding style (PSR).
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
-
 
 ## Instructions
 - Put more focus on code quality and less on speed
@@ -46,7 +47,9 @@ The goal of this test is more to evaluate the way of thinking, design and qualit
 If you have any questions, ask directly in our slack, room #tech-challenge.  
 
 ## Links & resources
-- https://www.vagrantup.com/
-- https://www.ansible.com/
+- https://www.ansible.com
+- https://www.vagrantup.com
+- https://docs.docker.com
+
 
 That’s it ! May the force be with you !! 🖖 
