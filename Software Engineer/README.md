@@ -13,7 +13,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 ## Context
 
 ### Product definition
-A product has a name, a description, a price, an image, and belongs to 0..2 categories.
+A product has a name, a description, a price, an image, and belongs to 0..n categories.
 
 - name (string) 
 - description (string)
