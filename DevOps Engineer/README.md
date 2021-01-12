@@ -9,7 +9,7 @@
 
 Make sure you spare an **average of 8 hours**, and a **maximum of 8 day** to work on the challenge.
 
-## Context
+## Content
 
 Build using Ansible a dev environment with:
 - An elasticsearch single node with 1 node that can also host kibana
@@ -26,7 +26,7 @@ After having setup the dev environment, init a test environment with a cluster o
 - node 3 (master & data)
 
 #### Notes
-- Organize your code, so it's easily maintainable.
+- Organize your code, so it's easily maintainable, code is elegant and readable.
 - Your solution should be able to handle multi environment.
  
 ## Technologies to use
@@ -37,7 +37,7 @@ After having setup the dev environment, init a test environment with a cluster o
 - Accuracy to follow instructions.
 - Code readability and coding style (PSR).
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
-- Quality of documentation (The readme should be short and concise, like open source projects readme).
+- Quality of documentation (The readme should be short and concise, like open source projects readme, it should contain all necessary step to build and make the app running.
 
 ## Instructions
 - Put more focus on code quality and less on speed
