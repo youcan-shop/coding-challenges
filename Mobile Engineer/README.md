@@ -20,8 +20,8 @@ The task is to implement an app that lists news, and a single page with swiping 
 
 ## API Endpoints
 
--   https://www.hespress.com/wp-json/wp/v2/posts?page=1
--	https://www.hespress.com/wp-json/wp/v2/categories
+-   http://soltana.ma/wp-json/wp/v2/posts?page=1
+-   http://soltana.ma/wp-json/wp/v2/categories
 
 ## Design
 
