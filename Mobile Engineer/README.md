@@ -12,8 +12,8 @@ The task is to implement an app that lists news, and a single page with swiping 
 
 ## Features
 
--   Show the top menu list based on the json feed here: https://www.hespress.com/wp-json/wp/v2/categories
--	Show posts with an infinite scroll by increasing the number of the page to get the next one, based on the json feed here: https://www.hespress.com/wp-json/wp/v2/posts?page=1
+-   Show the top menu list based on the json feed here: http://soltana.ma/wp-json/wp/v2/categories
+-	Show posts with an infinite scroll by increasing the number of the page to get the next one, based on the json feed here: http://soltana.ma/wp-json/wp/v2/posts?page=1
 -	The data must be stored locally for offline mode
 -	Show single page based on stored data
 -   Swipe between articles (you may just swipe into 10 of the recent posts)
