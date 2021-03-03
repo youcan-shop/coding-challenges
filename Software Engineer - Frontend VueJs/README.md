@@ -28,30 +28,14 @@ to help daily.
         
 ## Brief
 
-As a user I authorize my Github Account then I am able to list my repositories with some features:
-- Filter by name (autocomplete).
+As a user I authorize my Github Account then I am able to list my repositories with ability to filter by name (with autocomplete).
 
-As a user I access to two dashboards for a selected repository.
-- Commits history Dashboard: a listing of last x commits in a branch (master is default) with ability to select and show commits.
-- Pull Requests history: a listing of last Pull Requests with ability to select and show pull requests.
-
-## Features
-
-### Commit history feature
-
-When the user is on commit history page, commits history is displayed in the left side, he can filter by branch name.
-when the user selects a particular commit, it append in the right side of the page the preview code changes related to this commit. 
-
-### Last Pull Requests feature
-
-When the user is on last pull requests page, Pull Requests are listed by date desc in the left side.
-When the user selects a Pull requests, it appends commits related to this pull request in the right side.
-When the user selects a particular commit, it appends a third side in the right with previewing code changes related. 
-to the selected commit.
+As a user I select a repository from the list, then it shows the commit history with infinite scroll related to this branch. 
+Also I can switch the branch, then the commits listing is refreshed.
 
 ## Mockup 
 
-A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view
+A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view (TO UPDATE)
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
@@ -59,7 +43,6 @@ A mockup describing the UI could be helpful for well understanding the brief, av
 - Code readability and and app design.
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, get inspired from open source projects readme).
-
 
 ## Instructions
 - Put more focus on code quality and less on speed. 
