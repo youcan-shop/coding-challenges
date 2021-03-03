@@ -35,7 +35,7 @@ Also I can switch the branch, then the commits listing is refreshed.
 
 ## Mockup 
 
-A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view (TO UPDATE)
+A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
@@ -49,6 +49,7 @@ A mockup describing the UI could be helpful for well understanding the brief, av
 - Don't hack something quickly, take your time and craft something clean, with layers, separation of concerns and with following
 good frontend practices.
 - Write a readable and maintainable code.
+- Think about re-usable component when it's accurate
 
 ## Questions?
 
