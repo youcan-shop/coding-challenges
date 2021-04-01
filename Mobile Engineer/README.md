@@ -8,20 +8,17 @@ The task is to implement an app that lists news, and a single page with swiping 
 
 -   Clean, readable, maintainable codebase
 -   Source code on Github (Show us your work through your commit history!)
--   Use for Ios (Swift 5 or SwiftUI) or Android (Kotlin) according to your application
+-   Use for Ios (Swift 5 using SwiftUI) or Android (Kotlin or Java) according to your application
 
 ## Features
 
--   Show the top menu list based on the json feed here: http://soltana.ma/wp-json/wp/v2/categories
--	Show posts with an infinite scroll by increasing the number of the page to get the next one, based on the json feed here: http://soltana.ma/wp-json/wp/v2/posts?page=1
+-	Show posts with an infinite scroll by increasing the number of the page to get the next one, based on the json feed here: http://soltana.ma/wp-json/wp/v2/posts?page=1  (use design)
 -	The data must be stored locally for offline mode
--	Show single page based on stored data
--   Swipe between articles (you may just swipe into 10 of the recent posts)
+-	Show single page based on stored data (show just the title without using design)
 
 ## API Endpoints
 
 -   http://soltana.ma/wp-json/wp/v2/posts?page=1
--   http://soltana.ma/wp-json/wp/v2/categories
 
 ## Design
 
