@@ -3,14 +3,14 @@
 ## How to participate
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
-3. When you're ready to start the test, make sure you init a GitHub repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge UI Integration application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
-4. Once you're done with the test, reply again by email to notify us you're done with it.
+2. When you're ready to start the test, make sure you init a GitHub repository and share the link by email to **jobs@youcan.shop** with the object **Coding Challenge UI Integration application by {FirstName} {LastName}**, it'll be considered as the time your started working on the challenge.
+3. Once you're done with the test, reply again by email to notify us you're done with it.
 
-Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
+Make sure you spare an **average of 6 hours**, and a **maximum of 1 day** to work on the challenge.
 
 ## Context
 
-The [mockup design file](mockup.png) is a representation of a minimal page builder. The challenge is to build this page using HTML, CSS and Javascript.
+The [mockup design file](mockup.png) is a representation of a listing. The challenge is to build this page using HTML, CSS and some Javascript.
 You should use webpack to build your assets, so take time to structure everything and setup the build process. You have a choice to code it from scratch or use [TailwindCSS](https://tailwindcss.com/).
 
 ## Evaluation criteria 🚨
@@ -18,12 +18,13 @@ You should use webpack to build your assets, so take time to structure everythin
 - Accuracy to follow instructions.
 - W3C Recommendations.
 - Code readability.
+- HTML code accessibility.
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
-- Quality of documentation (The readme should be short and concise, like open source projects readme).
+- Quality of documentation (Add a README file to your repository to help us setup the project easily).
 
 ## Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge.
+If you have any questions, you can send us an email at jobs@youcan.shop.
 
 ## Links & resources
 
