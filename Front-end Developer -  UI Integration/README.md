@@ -11,7 +11,7 @@ Make sure you spare an **average of 6 hours**, and a **maximum of 1 day** to wor
 ## Context
 
 The [mockup design file](mockup.png) is a representation of a listing. The challenge is to build this page using HTML, CSS and some Javascript.
-You should use webpack to build your assets, so take time to structure everything and setup the build process. You have a choice to code it from scratch or use [TailwindCSS](https://tailwindcss.com/).
+You should use webpack to build your assets, so take time to structure everything and setup the build process. You must use [TailwindCSS](https://tailwindcss.com/) for this coding challenge.
 
 ## Evaluation criteria 🚨
 
