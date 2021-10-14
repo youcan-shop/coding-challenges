@@ -7,53 +7,65 @@
 **tech-challenge@nextmedia.ma** with the object **you_name - Coding Challenge Frontend VueJs**. *(it'll be considered as the time your started working on the challenge)*
 3. Once you're done with the test, reply all the same thread mail to notify us you're done with the challenge.
 
-You can join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), 
-then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available 
-to help daily. 
+It's important to show your ability to carefully read instructions and follow them.
 
 ## Context
 
-- You should focus to build a small and concise app the right way using best bractices.
+As a user, I authorize my Github Account then I am able to list my repositories with ability to filter by name, with autocomplete.
 
-- The Frontend App is based on the [Github REST API v3](https://developer.github.com/v3/) as a backend.
+As a user, I select a repository from the list, then it shows the commit history with an infinite scroll related to this branch. 
 
-- The goal of this test is more to evaluate the way of thinking, design and quality of code (We accept juniors and seniors).
+As a user, I can switch the branch, then the commits listing is being refreshed.
 
-- CSS & colors and templating are not evaluated, use any template, we put interest more on UX and user interactions. 
- 
-## Technologies to use
- 
-- VueJs / Javascript
-- Typescript
-        
-## Brief
+### Backend
 
-As a user I authorize my Github Account then I am able to list my repositories with ability to filter by name (with autocomplete).
+The Frontend App is based on the [Github REST API v3](https://developer.github.com/v3/) as a backend.
 
-As a user I select a repository from the list, then it shows the commit history with infinite scroll related to this branch. 
-Also I can switch the branch, then the commits listing is refreshed.
-
-## Mockup 
+### Mockup 
 
 A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view
 
+### UI & look
+
+Get inspired by Github look, simple, elegant, and minimalistic.
+
+Use a CSS framework such as [Tailwind CSS](https://tailwindcss.com)  
+
+#### Important notes
+
+- Put maximum effort on the coding style and naming, these are evaluated first.
+- The goal of this test is more to evaluate the way of thinking, design and quality of code.
+- Focus to build a small and concise app the right way using software engineering principles and best practices.
+
+The goal of this challenge is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions.
+It's also considered as first onboarding step to join our organization.
+
+We accept juniors and seniors.
+
+## Technologies to use
+ 
+- Html / Css
+- VueJs / Javascript
+- Typescript       
+
 ## Evaluation criteria 🚨
+
 - Accuracy to follow instructions.
 - Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
-- Code readability and and app design.
+- Code readability and architecture design.
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, get inspired from open source projects readme).
 
 ## Instructions
+
 - Put more focus on code quality and less on speed. 
-- Don't hack something quickly, take your time and craft something clean, with layers, separation of concerns and with following
-good frontend practices.
+- Don't hack something quickly, take your time and craft something clean, with layers, separation of concerns and with following good frontend practices.
 - Write a readable and maintainable code.
-- Think about re-usable component when it's accurate
+- Think about re-usable component when it's accurate.
 
 ## Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge.  
+If you have any questions, just be clear and wrap an email to tech-challenge@nextmedia.ma, and we will help you as much as we can. 
 
 ## Links & resources
 

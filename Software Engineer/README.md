@@ -90,7 +90,7 @@ If you have any questions, ask directly in our slack, room #tech-challenge or cu
 - PSR: https://www.php-fig.org/psr/
 
 #### Code design principles
-- DRY: [Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
+- [DRY - Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
 - [Single responsibility principle](https://deviq.com/single-responsibility-principle/)
 - [SOLID](https://deviq.com/solid/)   
 - [KISS, DRY, TDA, YAGNI](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
