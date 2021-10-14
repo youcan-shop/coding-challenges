@@ -57,7 +57,7 @@ Product creation should be covered by automated tests
 ## Technologies to use
  
 - Laravel / VueJs
-- PHP7 / MySQL       
+- PHP / MySQL       
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
