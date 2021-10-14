@@ -5,8 +5,8 @@
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before starting. 
 2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**
 3. Once you're done with the test, reply to the same thread mail to notify us you're done with it.
-
-You can join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question, there is no stupid question, we're available to help daily. 
+ 
+It's important to show your ability to carefully read instructions and follow them.
 
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
@@ -37,22 +37,22 @@ We should be able to create and delete a product from the command line
 
 We should be able to create a product
 
-We should be able to browse products through a product listing with ability to:
+We should be able to browse products through a paginated product listing with ability to:
 
 * sort by name, by price
 * filter by a category 
 
 ### Testing
-Product creation should be covered by automated tests
+Product creation can be covered by automated tests
 
 #### Important notes
 
-- The coding style is much important
+- The coding style is very important
 - Wrap Eloquent queries in the repository layer, never use Eloquent from outside the repository layer
 - Use a service layer for manipulating category & product objects (create, delete, get, ...)
 - CSS & colors are not evaluated.
 - Do not hesitate to automate the build phase (front / backend)
-- Build a small and concise app the right way.
+- Even if the challenge is quite simple, focus in the code quality and software engineering principles & best practices
  
 ## Technologies to use
  
@@ -72,10 +72,9 @@ Product creation should be covered by automated tests
 - Write a readable and maintainable code.
 - Subscribe to the repository, so you're notified about any change performed in this test
 
-The goal of this test is to evaluate the way of thinking, the quality of code design,
-and the accuracy to read and follow instructions
+The goal of this test is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions
 
-We accept juniors and seniors
+We accept juniors and seniors.
 
 ## Questions?
 
