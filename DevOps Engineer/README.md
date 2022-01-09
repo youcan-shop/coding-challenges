@@ -131,6 +131,6 @@ If you have any questions, ask directly in our slack, room #tech-challenge.
 - [Docker docs](https://docs.docker.com)
 - [Openresty docs](https://github.com/openresty/lua-nginx-module)
 - [Ansistrano deploy](https://github.com/ansistrano/deploy)
-- [Haproxy Sticky table](https://www.haproxy.com/fr/blog/)application-layer-ddos-attack-protection-with-haproxy/
+- [Haproxy Sticky table](https://www.haproxy.com/fr/blog/application-layer-ddos-attack-protection-with-haproxy/)
 
 That’s it! May the force be with you! 🖖 
