@@ -98,8 +98,8 @@ We need to build the app in only one "build machine or container", where the app
 ### How to participate
 
 1. Read each coding challenge instructions carefully and do not hesitate to check the **Links and resources** section before you start.
-2. Join us in [slack](https://join.slack.com/t/next-media-team/shared_invite/enQtMzM0MjIzNjkyNDUxLTI5ZjhhNTkxZTZiYzdkODIyMDkyZWIyNjFlZTE5MmQzMjNkNzZkOTdmMjcyY2Q1NTZlN2E2NTBkYjk1MGU3Mjk), then join **#tech-challenge** and do not hesitate to address any question before, during or after the coding challenge day, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge DevOps Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+2. Join us in [slack](https://join.slack.com/t/joinyoucan/shared_invite/zt-49jg5nkz-az~gBdHDN~EX6gRQaGVG0Q), then join **#tech-challenge-ops** and do not hesitate to address any question before, during or after the coding challenge day, there is no stupid question, we're available to help daily. 
+3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **abdo@youcan.shop** and cc **jobs@youcan.shop** with the object **Coding Challenge DevOps Engineer application 2022 by FirstName LastName**.
 4. Once you're done with the test, reply again by email to notify us you're done with it. 
 
 ### Coding challenge journey 
@@ -123,7 +123,7 @@ The goal of this test is more to evaluate the way of thinking, design and qualit
 
 ### Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge.  
+If you have any questions, ask directly in our slack, room #tech-challenge-ops.  
 
 ### Links & resources
 - [Ansible](https://www.ansible.com)
