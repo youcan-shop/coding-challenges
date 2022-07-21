@@ -30,5 +30,4 @@ If you have any questions, you can send us an email at jobs@youcan.shop.
 
 [Design Mockup file](mockup.png)
 
-
 That’s it ! May the force be with you !! 🖖

@@ -1,4 +1,4 @@
-# Software Engineer - Coding challenge
+# Junior Software Engineer - Fullstack (Laravel/VueJS)
 
 ## How to participate
 
@@ -23,7 +23,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 - parent category (null|category)
 
 ### Features
-- Ability to create a product (from cli)
+- Ability to create a product (from web and cli)
 - A listing products with ability to sort by price, or/and filter by a category (from web) 
 
 ### Testing

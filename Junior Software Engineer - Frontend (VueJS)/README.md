@@ -1,4 +1,4 @@
-# Software Engineer - Frontend VueJs coding challenge
+# Junior Software Engineer - Frontend (VueJS)
 
 ## How to participate
 
@@ -11,11 +11,11 @@ It's important to show your ability to carefully read instructions and follow th
 
 ## Context
 
-As a user, I authorize my Github Account then I am able to list my repositories with ability to filter by name, with autocomplete.
+- As a user, I authorize my Github Account then I am able to list my repositories with ability to filter by name, with autocomplete.
 
-As a user, I select a repository from the list, then it shows the commit history with an infinite scroll related to this branch. 
+- As a user, I select a repository from the list, then it shows the commit history with an infinite scroll related to this branch. 
 
-As a user, I can switch the branch, then the commits listing is being refreshed.
+- As a user, I can switch the branch, then the commits listing is being refreshed.
 
 ### Backend
 
@@ -23,7 +23,7 @@ The Frontend App is based on the [Github REST API v3](https://developer.github.c
 
 ### Mockup 
 
-A mockup describing the UI could be helpful for well understanding the brief, available here => https://app.moqups.com/sZB0qKZrxH/view
+A mockup describing the UI could be helpful for well understanding the brief, available [here](https://app.moqups.com/sZB0qKZrxH/view).
 
 ### UI & look
 
@@ -39,8 +39,6 @@ Use a CSS framework such as [Tailwind CSS](https://tailwindcss.com)
 
 The goal of this challenge is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions.
 It's also considered as first onboarding step to join our organization.
-
-We accept juniors and seniors.
 
 ## Technologies to use
  
@@ -70,10 +68,12 @@ If you have any questions, just be clear and wrap an email to tech-challenge@nex
 ## Links & resources
 
 ### Coding style and best practices
+
 - https://handbook.imarc.com/frontend
 - https://frontendmasters.com/books/front-end-handbook/2019/
 
 ### VueJs best practices
+
 - https://vuejs.org/v2/style-guide/
 - https://012.vuejs.org/guide/best-practices.html
 - https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255

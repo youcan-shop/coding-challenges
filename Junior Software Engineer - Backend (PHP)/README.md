@@ -1,4 +1,4 @@
-# Software Engineer - Coding challenge
+# Junior Software Engineer - Backend (PHP)
 
 ## How to participate
 
@@ -60,6 +60,7 @@ Product creation can be covered by automated tests
 - PHP / MySQL       
 
 ## Evaluation criteria 🚨
+
 - Accuracy to follow instructions.
 - Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
 - Code readability and coding style (PSR).
@@ -67,29 +68,30 @@ Product creation can be covered by automated tests
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
 
 ## Instructions
+
 - Put more focus on code quality and less on speed. 
 - Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 - Write a readable and maintainable code.
 - Subscribe to the repository, so you're notified about any change performed in this test
 
-The goal of this test is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions
-
-We accept juniors and seniors.
+The goal of this test is to evaluate the way of thinking, the quality of code design, and the accuracy to read and follow instructions.
 
 ## Questions?
 
-If you have any questions, ask directly in our slack, room #tech-challenge or cut an email to tech-challenge@nextmedia.ma  
+If you have any questions, send us an email on tech-challenge@nextmedia.ma  
 
 ## Links & resources
 
 ### Mandatory to know
 
 #### PSR & coding style
+
 - PSR-1: https://www.php-fig.org/psr/psr-1/
 - PSR-2: https://www.php-fig.org/psr/psr-2/
 - PSR: https://www.php-fig.org/psr/
 
 #### Code design principles
+
 - [DRY - Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
 - [Single responsibility principle](https://deviq.com/single-responsibility-principle/)
 - [SOLID](https://deviq.com/solid/)   
@@ -112,10 +114,10 @@ If you have any questions, ask directly in our slack, room #tech-challenge or cu
 
 
 ### PHP / Laravel / Symfony
+
 - https://laravel.com
 - https://github.com/ziadoz/awesome-php
 - https://github.com/TimothyDJones/awesome-laravel
 - https://github.com/chiraggude/awesome-laravel
-
 
 That’s it ! May the force be with you !! 🖖 

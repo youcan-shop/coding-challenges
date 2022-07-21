@@ -1,4 +1,4 @@
-# Senior Software Engineer Tech Challenge 2022
+# Senior Software Engineer - Backend (PHP)
 
 ## How to participate
 1. Read the instructions carefully before you start.
