@@ -1,0 +1,22 @@
+{
+  "name": "youcan/coding_challenge",
+  "description": "YouCan senior PHP software engineer coding challenge",
+  "autoload": {
+    "psr-4": {
+      "YouCan\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "YouCan\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "illuminate/console": "^8.83",
+    "illuminate/events": "^8.83",
+    "guzzlehttp/guzzle": "^7.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
