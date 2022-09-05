@@ -99,7 +99,7 @@ We need to build the app in only one "build machine or container", where the app
 
 1. Read each coding challenge instructions carefully and do not hesitate to check the **Links and resources** section before you start.
 2. Join us in [slack](https://join.slack.com/t/joinyoucan/shared_invite/zt-49jg5nkz-az~gBdHDN~EX6gRQaGVG0Q), then join **#tech-challenge-ops** and do not hesitate to address any question before, during or after the coding challenge day, there is no stupid question, we're available to help daily. 
-3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **abdo@youcan.shop** and cc **jobs@youcan.shop** with the object **Coding Challenge DevOps Engineer application 2022 by FirstName LastName**.
+3. When you're ready to start the test, make sure you init a Github repository and share the link by email to **abdo@youcan.shop** and cc **tech-challenge@youcan.shop** with the object **Coding Challenge DevOps Engineer application 2022 by FirstName LastName**.
 4. Once you're done with the test, reply again by email to notify us you're done with it. 
 
 ### Coding challenge journey 
