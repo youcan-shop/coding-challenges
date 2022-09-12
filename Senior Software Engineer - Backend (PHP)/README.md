@@ -2,7 +2,7 @@
 
 ## How to participate
 1. Read the instructions carefully before you start.
-2. When you're ready to start the test, make sure you init a Github repository and share the link via email to tech-challenge@nextmedia.ma with the subject Coding Challenge Senior Backend Engineer application by FirstName LastName, it will be considered as the time your started working on the challenge.
+2. When you're ready to start the test, make sure you init a Github repository and share the link via email to tech-challenge@youcan.shop with the subject Coding Challenge Senior Backend Engineer application by FirstName LastName, it will be considered as the time your started working on the challenge.
 3. Once you're done with the test, reply again on the same email to notify us.
 Content
 

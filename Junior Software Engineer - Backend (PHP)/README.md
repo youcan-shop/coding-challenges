@@ -3,7 +3,7 @@
 ## How to participate
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before starting. 
-2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@nextmedia.ma** with the object **Coding Challenge Software Engineer application by FirstName LastName**
+2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@youcan.shop** with the object **Coding Challenge Software Engineer application by FirstName LastName**
 3. Once you're done with the test, reply to the same thread mail to notify us you're done with it.
  
 It's important to show your ability to carefully read instructions and follow them.
@@ -78,7 +78,7 @@ The goal of this test is to evaluate the way of thinking, the quality of code de
 
 ## Questions?
 
-If you have any questions, send us an email on tech-challenge@nextmedia.ma  
+If you have any questions, send us an email on tech-challenge@youcan.shop  
 
 ## Links & resources
 

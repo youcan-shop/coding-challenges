@@ -4,7 +4,7 @@
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start or during the challenge.
 2. When you're ready to start the test, Init a Github repository named *{your_name}-taas-frontend-challenge* and let us know by sharing the link by email to 
-**tech-challenge@nextmedia.ma** with the object **you_name - Coding Challenge Frontend VueJs**. *(it'll be considered as the time your started working on the challenge)*
+**tech-challenge@youcan.shop** with the object **you_name - Coding Challenge Frontend VueJs**. *(it'll be considered as the time your started working on the challenge)*
 3. Once you're done with the test, reply all the same thread mail to notify us you're done with the challenge.
 
 It's important to show your ability to carefully read instructions and follow them.
@@ -63,7 +63,7 @@ It's also considered as first onboarding step to join our organization.
 
 ## Questions?
 
-If you have any questions, just be clear and wrap an email to tech-challenge@nextmedia.ma, and we will help you as much as we can. 
+If you have any questions, just be clear and wrap an email to tech-challenge@youcan.shop, and we will help you as much as we can. 
 
 ## Links & resources
 
