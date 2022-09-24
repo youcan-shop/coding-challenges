@@ -6,3 +6,6 @@ This coding challenge is intended for senior PHP software engineers. To be accep
 - Fill `LocationCollection` code to make it behave as an array (loop, array access).
 - Fill the tests classes and make them pass.
 - Set up the GitHub CI to run the tests automatically for master branch and add the CI badge on README file.
+
+Once you finish the coding challenge email us at `go@youcan.shop` with subject `YouCan Senior Software Engineer coding challenge`. 
+We will contact you if we validate that you solved the above points.
