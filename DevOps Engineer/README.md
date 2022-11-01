@@ -28,28 +28,7 @@ we need a vhost that can reformulate this request to the following: `/stores/XY/
 
 ### Hints
 Nginx doesn't support lua scripting so you can manipulate the coming request as you want, here we can introduce - lua scripting - a scripting module that is added in top of nginx to allow customized scripting.
-
-## Coding challenge II: Save our deploy train
-### Problematic
-The engineering team is shipping features and improvements many times per day, all those deployments need to be well orchestrated. 
-
-Each developer can ship his changes to a test environment before going to prod, to ensure all is working as expected. 
-
-Imagine a case where two developers end two different features at the same, one of them will wait until the other mate ends testing his deployed code then he can pursue deploying his feature, this can lead to train traffic jam sometimes.
-
-### Expected solution
-Using ansible and docker-compose, pop-up 2 containers distributed as following:
-
-1. One nginx container (this will hosts your 3envs vhosts files)
-2. One php container
-
-***Example***
-
-- test1.testycan.shop
-- test2.testycan.shop
-- test3.testycan.shop
-
-## Coding Challenge III: Always implement a retention - openresty SSL generation
+## Coding Challenge II: Always implement a retention - openresty SSL generation
 ### Problematic
 
 In the E-commerce world, sellers or stores owners can add their custom domains, such as `my-domain.com`. 
@@ -67,7 +46,7 @@ Using ansible and docker-compose, pop up 3 containers distributed as following:
 
 Using ssl-lua openresty module implement a retention policy of cleaning old expired certificates.
 
-## Coding challenge IV: Save our app from DDos attacks
+## Coding challenge III: Save our app from DDos attacks
 ### Problematic
 Haproxy provides a high, fast and efficient availability load balacing and proxying.
 
@@ -81,7 +60,7 @@ Using ansible and docker-compose, pop up 3 containers distributed as following:
 2. One nginx container  that holds your vhosts to redirect requests to the php container.
 3. One php container that serves your sample.
 
-## Coding challenge V: Optimize our time to ship features
+## Coding challenge IV: Optimize our time to ship features
 ### Problematic
 In a world of hulk stacks we can have a pool of servers that hold the app to assure a high availability, deploying the app to this pool is one of the common challenges in site reliability engineering. 
 
