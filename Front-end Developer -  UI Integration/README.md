@@ -3,7 +3,7 @@
 ## How to participate
 
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start.
-2. When you're ready to start the test, make sure you init a GitHub repository and share the link by email to **jobs@youcan.shop** with the object **Coding Challenge UI Integration application by {FirstName} {LastName}**, it'll be considered as the time your started working on the challenge.
+2. When you're ready to start the test, make sure you init a GitHub repository and share the link by email to **tech-challenge@youcan.shop** with the object **Coding Challenge UI Integration application by {FirstName} {LastName}**, it'll be considered as the time your started working on the challenge.
 3. Once you're done with the test, reply again by email to notify us you're done with it.
 
 Make sure you spare an **average of 6 hours**, and a **maximum of 1 day** to work on the challenge.
