@@ -24,7 +24,7 @@ You should use webpack to build your assets, so take time to structure everythin
 
 ## Questions?
 
-If you have any questions, you can send us an email at jobs@youcan.shop.
+If you have any questions, you can send us an email at tech-challenge@youcan.shop.
 
 ## Links & resources
 
