@@ -8,12 +8,13 @@ The task is to implement an app that lists news, and a single page with swiping 
 
 -   Clean, readable, maintainable codebase
 -   Source code on Github (Show us your work through your commit history!)
--   Use for Ios (Swift 5 using SwiftUI) or Android (Kotlin or Java) according to your application
+-   Use for Ios (Swift 5 using SwiftUI) or Android (Kotlin) according to your application
+-   Use MVVM as a design pattern + Dependency injection 
 
 ## Features
 
 -	Show posts with an infinite scroll by increasing the number of the page to get the next one, based on the json feed here: http://soltana.ma/wp-json/wp/v2/posts?page=1  (use design)
--	The data must be stored locally for offline mode
+-	The data must be stored locally for offline mode 
 -	Show single page based on stored data (show just the title without using design)
 
 ## API Endpoints
