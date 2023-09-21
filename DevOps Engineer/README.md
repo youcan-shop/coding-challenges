@@ -80,10 +80,6 @@ We need to build the app in only one "build machine or container", where the app
 2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **abdo@youcan.shop** and cc **tech-challenge@youcan.shop** with the object **Coding Challenge DevOps Engineer application 2022 by FirstName LastName**.
 3. Once you're done with the test, reply again by email to notify us you're done with it. 
 
-### Coding challenge journey 
-This Coding challenge will be as your 1st day of your on-boarding journey, candidates will attend what we call 'standup' which will be at 09:00 a.m of the day coding challenges will be launched. Candidates will be be able to exchange with our stack holders during the day, and ask them any questions regrading the coding challenges.
-By 6:00 p.m of that day candidates will attend what we call closing on which everyone will dilever his committed solution of one of the challenges.
-
 ### Evaluation criteria 🚨
 - Accuracy to follow instructions.
 - Code readability and coding style (PSR).
