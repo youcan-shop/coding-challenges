@@ -1,6 +1,5 @@
 import { allChallenges } from "contentlayer/generated";
 import { Swords } from "lucide-react";
-import { Button } from "../ui/button";
 import Link from "next/link";
 
 const Challenges = () => {
@@ -13,9 +12,7 @@ const Challenges = () => {
           key={challenge._raw.flattenedPath}
         >
           <p>{challenge.title}</p>
-          <Button variant="ghost" size="sm">
-            <Swords className="w-4 h-4" />
-          </Button>
+          <Swords className="w-4 h-4" />
         </Link>
       ))}
     </div>

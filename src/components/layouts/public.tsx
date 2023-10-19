@@ -18,9 +18,9 @@ const LayoutPublic: React.FC<LayoutPublicProps> = ({ children }) => {
   return (
     <main className={cn("min-h-[100dvh] flex flex-col", jetbrains.className)}>
       <Head>
+        <title>YouCan-Challenge</title>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>YouCan-Challenge | Innovation in Action</title>
         <meta
           name="description"
           content="Explore YouCan's tech challenges, innovation, and problem-solving initiatives. Join us in the journey of pushing the boundaries of technology."

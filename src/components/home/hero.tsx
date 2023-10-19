@@ -50,8 +50,11 @@ const Hero = () => {
         <div className="relative flex items-center justify-center">
           <Image
             src={challengeImage}
-            alt=""
+            alt="Challenge excample"
             className="shadow-xl rounded-md rotate-6 w-full max-w-lg"
+            priority
+            width="1920"
+            height="1800"
           />
         </div>
       </div>
