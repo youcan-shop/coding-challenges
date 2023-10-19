@@ -10,7 +10,7 @@ interface ChallengeProps {
 const Challenge: React.FC<ChallengeProps> = ({ challenge }) => {
   return (
     <LayoutPublic>
-      <div className="container max-w-3xl flex flex-col gap-8">
+      <div className="container max-w-3xl flex flex-col gap-8 py-16">
         <h1 className="inline-block text-4xl font-extrabold leading-tight lg:text-5xl text-primary">
           {challenge.title}
         </h1>
