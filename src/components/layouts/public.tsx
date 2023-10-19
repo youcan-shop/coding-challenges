@@ -39,7 +39,7 @@ const LayoutPublic: React.FC<LayoutPublicProps> = ({ children }) => {
         />
         <meta
           name="twitter:image"
-          content="https://coding-challenges-tau.vercel.app/OG.png"
+          content="https://ycan-challenge.yerapos.com/OG.png"
         />
 
         <meta property="og:type" content="website" />
@@ -53,11 +53,11 @@ const LayoutPublic: React.FC<LayoutPublicProps> = ({ children }) => {
         />
         <meta
           property="og:image"
-          content="https://coding-challenges-tau.vercel.app/OG.png"
+          content="https://ycan-challenge.yerapos.com/OG.png"
         />
         <meta
           property="og:url"
-          content="https://coding-challenges-tau.vercel.app"
+          content="https://ycan-challenge.yerapos.com/OG.png"
         />
       </Head>
       <Nav />
