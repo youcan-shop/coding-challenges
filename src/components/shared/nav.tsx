@@ -10,10 +10,10 @@ const Nav: React.FC = () => {
     const onScroll = () => {
       if (window.scrollY > 0) {
         setIsScrolling(true);
-        return
+        return;
       }
 
-      setIsScrolling(false)
+      setIsScrolling(false);
     };
 
     window.addEventListener("scroll", onScroll);
@@ -27,7 +27,7 @@ const Nav: React.FC = () => {
     <nav
       className={cn(
         "h-20 sticky top-0 animate duration-100 z-50",
-        isScrolling ? "bg-white border-b" : "bg-primary/10"
+        isScrolling ? "bg-white border-b" : "bg-primary/10",
       )}
     >
       <div className="container h-full flex items-center">

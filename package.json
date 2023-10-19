@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "lint:fix": "next lint --fix .",
+    "prettier:write": "prettier --write .",
     "postinstall": "contentlayer build"
   },
   "dependencies": {
@@ -40,9 +42,11 @@
     "typescript": "^5"
   },
   "lint-staged": {
-    "**/*.{ts,tsx,mdx}": [
-      "prettier --write",
+    "**/*.{ts,tsx}": [
       "eslint --fix"
+    ],
+    "**/*.{ts,tsx,mdx}": [
+      "prettier --write"
     ]
   }
 }

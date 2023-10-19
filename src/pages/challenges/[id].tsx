@@ -23,7 +23,7 @@ const Challenge: React.FC<ChallengeProps> = ({ challenge }) => {
 export const getStaticProps: GetStaticProps = (ctx) => {
   const id = ctx.params?.id;
   const challenge = allChallenges.find(
-    (challenge) => challenge._raw.flattenedPath === id
+    (challenge) => challenge._raw.flattenedPath === id,
   );
 
   return {

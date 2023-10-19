@@ -11,7 +11,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-4xl border-b scroll-m-20 font-heading font-bold text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -20,7 +20,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-2xl font-heading border-b scroll-m-20 tracking-tight font-semibold mt-12 first:mt-0 pb-4 text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -29,7 +29,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-xl font-heading  scroll-m-20 tracking-tight font-semibold mt-6 text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -38,7 +38,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-lg font-heading  scroll-m-20 tracking-tight font-semibold mt-6 text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -47,7 +47,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-lg font-heading  scroll-m-20 tracking-tight font-semibold mt-6 text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -56,7 +56,7 @@ const components: Record<string, React.FC<any>> = {
       {...props}
       className={cn(
         "text-base font-heading  scroll-m-20 tracking-tight font-semibold mt-6 text-primary",
-        className
+        className,
       )}
     />
   ),
@@ -76,7 +76,7 @@ const components: Record<string, React.FC<any>> = {
     <pre
       className={cn(
         "relative mb-4 mt-6 max-h-[640px] overflow-x-auto rounded-lg border p-4 !bg-black text-sm font-mono text-muted-foreground",
-        className
+        className,
       )}
       {...props}
     />
@@ -85,7 +85,7 @@ const components: Record<string, React.FC<any>> = {
     <code
       className={cn(
         "relative rounded bg-black/10 px-[0.3rem] py-[0.2rem] font-mono text-sm",
-        className
+        className,
       )}
       {...props}
     />
@@ -96,11 +96,15 @@ const components: Record<string, React.FC<any>> = {
   ol: ({ className, ...props }) => (
     <ol {...props} className={cn("my-6 ml-6 list-disc", className)} />
   ),
-}
+};
 
 const MDX: React.FC<MDXProps> = ({ code }) => {
-  const Component = useMDXComponent(code)
-  return <div className="mdx break-words" ><Component components={components} /></div>
-}
+  const Component = useMDXComponent(code);
+  return (
+    <div className="mdx break-words">
+      <Component components={components} />
+    </div>
+  );
+};
 
-export default MDX
+export default MDX;
