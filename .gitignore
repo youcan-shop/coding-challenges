@@ -36,6 +36,3 @@ next-env.d.ts
 
 .contentlayer
 .env
-bun.lockb
-pnpm-lock.yaml
-yarn.lock
