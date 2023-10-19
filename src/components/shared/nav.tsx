@@ -32,7 +32,7 @@ const Nav: React.FC = () => {
     >
       <div className="container h-full flex items-center">
         <div className="flex items-center gap-12">
-          <Link href="/">
+          <Link href="/" aria-label="logo" rel="logo">
             <Logo className="w-20" />
           </Link>
         </div>
