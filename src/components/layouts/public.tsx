@@ -6,9 +6,16 @@ interface LayoutPublicProps {
   children?: React.ReactNode;
 }
 
+import { Poppins } from "next/font/google";
+import { cn } from "@/lib/utils";
+const jetbrains = Poppins({
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  subsets: ["latin"],
+});
+
 const LayoutPublic: React.FC<LayoutPublicProps> = ({ children }) => {
   return (
-    <main className="min-h-[100dvh] flex flex-col gap-12">
+    <main className={cn("min-h-[100dvh] flex flex-col", jetbrains.className)}>
       <Nav />
       {children}
       <Footer />
