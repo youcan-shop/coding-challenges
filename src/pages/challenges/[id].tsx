@@ -11,7 +11,7 @@ const Challenge: React.FC<ChallengeProps> = ({ challenge }) => {
   return (
     <LayoutPublic>
       <div className="container max-w-3xl flex flex-col gap-8 py-16">
-        <h1 className="inline-block text-4xl font-extrabold leading-tight lg:text-5xl text-primary">
+        <h1 className="text-primary font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-5xl leading-tight">
           {challenge.title}
         </h1>
         <MDX code={challenge.body.code} />
