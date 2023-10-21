@@ -1,40 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Youcan Challenge - Next.js SSG Website
+
+Welcome to the "Youcan Challenge" website repository! This website is built using Next.js with Static Site Generation (SSG) and is designed to showcase the capabilities and challenges offered by Youcan.
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage](#usage)
+4. [Folder Structure](#folder-structure)
+5. [Deployment](#deployment)
+6. [Contributing](#contributing)
+7. [License](#license)
+
+## Project Overview
+
+The "Youcan Challenge" website is a static site generated using Next.js. It serves as a platform to promote challenges related to Youcan.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
+Before you begin, ensure you have the following prerequisites:
+
+- Node.js: Make sure you have Node.js installed. You can download it from [https://nodejs.org/](https://nodejs.org/).
+
+### Installation
+
+1. Clone this repository to your local machine:
+
+   ```shell
+   git clone https://github.com/ChoaibMouhrach/coding-challenges
+   ```
+
+2. Change directory to the project folder:
+
+   ```shell
+   cd coding-challenges
+   ```
+
+3. Install the project dependencies:
+
+   ```shell
+   npm install
+   ```
+
+## Usage
+
+To run the development server, use the following command:
+
+```shell
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will start the development server, and you can access the website locally at [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+For production builds and deployment, use:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+```shell
+npm run build
+npm run start
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Folder Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Here is an overview of the project's folder structure:
 
-## Learn More
+- `/components`: React components used throughout the site.
+- `/pages`: Pages for the website, following Next.js conventions.
+- `/public`: Static assets like images, styles, and fonts.
+- `/styles`: CSS styles for the project.
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To deploy the "Youcan Challenge" website, you can follow the deployment instructions for Next.js on platforms like Vercel, Netlify, or your own server.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+If you'd like to contribute to this project, please follow these guidelines:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork the repository to your GitHub account.
+2. Create a new branch with a descriptive name for your feature or fix.
+3. Make your changes and commit them with clear and concise messages.
+4. Push your branch to your forked repository.
+5. Create a pull request to this repository's main branch.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Feel free to reach out to the project maintainers for any questions, feedback, or issues related to the "Youcan Challenge" website.
+
