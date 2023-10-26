@@ -39,6 +39,10 @@ A category has
 - Seed the DB with 1k categories and 1M products 
 - Implement a Cache layer in front of the DB everywhere
 - Optimize the DB
+- Implement a logger that logs inline in dev environment and json in prod environment
+
+### Part 3
+- Build an API
 
 ## Instructions
 - Write a readable and maintainable code.
