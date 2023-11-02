@@ -31,23 +31,25 @@ A category has
 
 ### Part I
 - Build the environment to deal with entities
-- Ability to create a product (from web and cli)
-- A listing products with ability to sort by price, or/and filter by a category (from web)
+- Ability to create a product from web and cli
+- Ability to list products with sorting by price, or/and filtering by a category name - from web
+- Add a validation layer
 
 ### Part 2
-
-- Seed the DB with 1k categories and 1M products 
+- Build a REST API
+- Implement a command to seed the DB with 1k categories and 1M products 
 - Implement a Cache layer in front of the DB everywhere
-- Optimize the DB
 - Implement a logger that logs inline in dev environment and json in prod environment
 
 ### Part 3
-- Build an API
+- Optimize the DB
+- Write Unit tests and implement CI using Github actions 
+- Implement an advanced search engine using Elasticsearch, with making sure data sources are well synced overtime.
 
 ## Instructions
 - Write a readable and maintainable code.
 - Build a small and concise app the right way, with illustrating good software engineering principles (DRY, KISS, YAGNI, SOLID, ...)
-- Wrap Eloquent queries in repository layer,  never use eloquent outside the repository
+- Wrap Eloquent queries in repository layer, never use eloquent outside the repository
 - CSS & colors are not evaluated.
 - Do not hesitate to automate the build phase (front / backend)
 
