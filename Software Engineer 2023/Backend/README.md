@@ -77,6 +77,8 @@ If you have any questions, ask directly in our slack, email tech-challenge@youca
 
 #### App architecture
 
+![App architecture](https://raw.githubusercontent.com/youcan-shop/coding-challenges/cee96ef93118330336ac32d1df7ce6554f825d02/Software%20Engineer%202023/Backend/app_architecture.png "App architecture")
+
 
 
 #### PSR & coding style
