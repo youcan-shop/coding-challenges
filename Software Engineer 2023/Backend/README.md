@@ -1,7 +1,6 @@
 # Software Engineer Coding Challenge
 
 ## How to participate
-
 1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start. 
 2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@youcan.shop** with the object **Coding Challenge Software Engineer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
 3. Once you're done with the test, reply again by email to notify us you're done with it. 
@@ -9,11 +8,9 @@
 Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to work on the challenge.
 
 ## Coding challenge
-
 Let's build a small environment where we deal with products and their categories.
 
 #### Definitions
-
 A product has:
 - name
 - description
@@ -70,22 +67,18 @@ A category has
 The goal of this assessment is to evaluate the way of thinking, design and quality of code. 
 
 ## Questions?
-
 If you have any questions, ask directly in our slack, email tech-challenge@youcan.shop  
 
 ## Links & Resources
 
 #### App architecture
-
 ![App architecture](https://raw.githubusercontent.com/youcan-shop/coding-challenges/cee96ef93118330336ac32d1df7ce6554f825d02/Software%20Engineer%202023/Backend/app_architecture.png "App architecture")
-
-
 
 #### PSR & coding style
 - PSR-1: https://www.php-fig.org/psr/psr-1/
 - PSR-2: https://www.php-fig.org/psr/psr-2/
 - PSR: https://www.php-fig.org/psr/
-
+- 
 #### Code design principles
 - DRY: [Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
 - [Single responsibility principle](https://deviq.com/single-responsibility-principle/)
@@ -93,13 +86,11 @@ If you have any questions, ask directly in our slack, email tech-challenge@youca
 - [KISS, DRY, TDA, YAGNI](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
 
 ### Best practices
-
 - [PHP best practices](https://phpbestpractices.org/)
 - [PHP the right way](https://phptherightway.com/)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 ### Laravel & VueJs
-
 - [Laravel](https://laravel.com)
 - [VueJs](https://vuejs.org/v2/guide/)
 - [Laravel Vue Single file component](https://medium.com/plint-sites/javascript-in-laravel-vue-single-file-components-69be12033d98)
