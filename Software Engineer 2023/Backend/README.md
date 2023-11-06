@@ -30,8 +30,8 @@ A category has
 - updated_at
 
 ### Part I
-- Build the environment to deal with entities
-- Ability to create a product from web and cli
+- Build the environment to deal with entities / models
+- Ability to create a product from the web and from the cli
 - Ability to list products with sorting by price, or/and filtering by a category name - from web
 - Add a validation layer
 
@@ -47,15 +47,15 @@ A category has
 - Implement an advanced search engine using Elasticsearch, with making sure data sources are well synced overtime.
 
 ## Instructions
-- Write a readable and maintainable code.
+- Write a readable, maintainable and decoupled code.
 - Build a small and concise app the right way, with illustrating good software engineering principles (DRY, KISS, YAGNI, SOLID, ...)
+- Do not use magics from the Framework, avoid using facades in favor of dependency injection
 - Wrap Eloquent queries in repository layer, never use eloquent outside the repository
-- CSS & colors are not evaluated.
-- Do not hesitate to automate the build phase (front / backend)
+- Do not hesitate to automate the build phase
 
 ## Technologies
 - Laravel / VueJs
-- PHP / MySQL
+- PHP / MySQL / Memcached / Redis / ES
 
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions with attention to details.
@@ -74,6 +74,10 @@ The goal of this assessment is to evaluate the way of thinking, design and quali
 If you have any questions, ask directly in our slack, email tech-challenge@youcan.shop  
 
 ## Links & Resources
+
+#### App architecture
+
+
 
 #### PSR & coding style
 - PSR-1: https://www.php-fig.org/psr/psr-1/
@@ -108,7 +112,4 @@ If you have any questions, ask directly in our slack, email tech-challenge@youca
 - https://github.com/chiraggude/awesome-laravel
 
 ### Coding challenge Guidance
-
-
-
 That’s it ! May the force be with you !! 🖖 
