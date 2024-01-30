@@ -53,8 +53,9 @@ Can be used to run a fetch request and transform the data for example.
 
 ```ts
 const { data, pending } = useAsync(
-    async () => {
-        const res = await fetch('/api/things').then(res => res.json());
+    async ({ signal }) => {
+        const res = await fetch('/api/things', { signal })
+            .then(res => res.json());
 
         return await res.json(); // this is the data or state
     }
@@ -65,6 +66,7 @@ const { data, pending } = useAsync(
 
 - The return type must be the same whether or not it is awaited.
 - If the first argumnt (`task`) is a ref, the task must be re-executed on every change.
+- The invoked task must be called with an options argument, that has to include at least an `AbortSignal` that the user can leverage to cancel their task.
 
 ## Evaluation criteria
 
