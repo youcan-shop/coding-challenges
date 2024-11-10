@@ -31,6 +31,13 @@ Your task is to implement a single page weather application from an existing des
 - Coding style consistency
 - Asynchronous state management
 - CSS organization and practices
+- Progressive pushes and clean commit history
+
+### Deadline
+
+There is no deadline for this challenge. Take your time and cook something you would be satisfied with, this means that you can go even beyond the requirements if you wish.
+
+This does not mean that we will not be evaluating the time taken to complete this challenge, your work will be judged based on its quality/time proportions.
 
 ## Submission
 
