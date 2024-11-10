@@ -19,7 +19,7 @@ Your task is to implement a single page weather application from an existing des
 ### Requirements
 
 - Do not stray from the stack
-- Implement the app according to this figma [design](https://www.figma.com/design/PsxrPS1Wor2Xx6wHQjeP5q/Weather-App)
+- Implement the app according to this figma [design](https://www.figma.com/design/PsxrPS1Wor2Xx6wHQjeP5q/Weather-App?node-id=56-353&t=71XLlLSK4i0QQ8Xu-1)
 - Connect the app to a weather api of your choosing
 - Use a linter and/or code formatter
 - Document your project
