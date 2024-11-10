@@ -41,7 +41,7 @@ This does not mean that we will not be evaluating the time taken to complete thi
 
 ## Submission
 
-Please implement your solution and push it to a public repository, and sent it to [tech-challenge@youcan.shop](mailto://tech-challenge@youcan.shop) or as a reply (if you received this via email)
+Implement your solution and push it to a public repository, and send the link it to [tech-challenge@youcan.shop](mailto://tech-challenge@youcan.shop) or as a reply (if you received this via email)
 
 ---
 
