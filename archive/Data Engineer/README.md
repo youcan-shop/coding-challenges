@@ -14,7 +14,7 @@ Let's first set up a small environment as a base where we deal with some entitie
 
 #### Schema
 
-![Schema](https://raw.githubusercontent.com/youcan-shop/coding-challenges/master/Data%20Engineer/schema.png "Schema")
+![Schema](https://raw.githubusercontent.com/youcan-shop/coding-challenges/master/archive/Data%20Engineer/schema.png)
 
 #### Data
 Find a way to populate a significant amount of data for at least twelve months
