@@ -1,4 +1,4 @@
-# Data Engineer for E-commerce Analytics
+# Data Engineer for E-commerce Platform
 
 ## How to participate
 1. Read the instructions carefully and do not hesitate to ask questions directly in the email.
