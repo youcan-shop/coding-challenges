@@ -1,7 +1,7 @@
 # Data Engineer for E-commerce Analytics
 
 ## How to participate
-1. Read the instructions carefully and do not hesitate to check the **Links and resources** section before you start. 
+1. Read the instructions carefully and do not hesitate to ask questions directly in the email.
 2. When you're ready to start the test, make sure you init a Github repository and share the link by email to **tech-challenge@youcan.shop** with the object **Coding Challenge Data Engineer application by FirstName LastName**, and cc **lmouad@youcan.shop**, it'll be considered as the time your started working on the challenge.
 3. Once you're done with the test, reply again by email to notify us you're done with it. 
 
@@ -119,6 +119,3 @@ Final Deliverables
 > Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 
 The goal of this assessment is to evaluate the way of thinking, design and quality of code. 
-
-## Questions?
-If you have any questions, ask directly in our slack, email tech-challenge@youcan.shop
