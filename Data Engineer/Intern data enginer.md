@@ -46,7 +46,6 @@ You have access to a PostgreSQL (or BigQuery) database with the following tables
 - Brief report on bottlenecks and improvements
 
 ### Part II: Cohort analysis
-Working with python (clean, transform and process data), create a cohort analysis to analyze stores retention.
 
 #### Context:
 You want to analyze retention patterns of users based on their signup month.
@@ -62,7 +61,6 @@ You want to analyze retention patterns of users based on their signup month.
 - SQL cohort query (BigQuery or python syntax are preferred)
 
 - Python code for visualization (Pandas + Matplotlib/Seaborn/Plotly)
-
 
 
 ### Part III: Behavioral Segmentation with Elasticsearch & AI
@@ -105,17 +103,6 @@ Final Deliverables
 - ✅ Bonus: Dockerized environment or setup instructions for ease of testing
 
 
-
-## Evaluation criteria 🚨
-| Category               | Weight |
-|------------------------|--------|
-| Query optimization     | 20%    |
-| Cohort logic & accuracy| 15%    |
-| Python fluency         | 15%    |
-| AI integration         | 30%    |
-| Clarity of documentation | 20%  |
-
- 
 > Don't hack something quickly, take your time and craft something clean, with layers and separation of concerns.
 
 The goal of this assessment is to evaluate the way of thinking, design and quality of code. 
